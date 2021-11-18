@@ -1,1 +1,1 @@
-# Residential-Electric-Power-Usage-Report
+# Residential Electric Power Usage Report
